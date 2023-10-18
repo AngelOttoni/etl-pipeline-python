@@ -1,0 +1,52 @@
+LOCUS       KC348469                 640 bp    DNA     linear   PLN 17-DEC-2014
+DEFINITION  Lachnocladium schweinfurthianum voucher URM 84267 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC348469
+VERSION     KC348469.1
+KEYWORDS    .
+SOURCE      Lachnocladium schweinfurthianum
+  ORGANISM  Lachnocladium schweinfurthianum
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Araujo Neta,L., Silva,G. and Gibertoni,T.
+  TITLE     Species of Basidiomycota in Pernambuco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Araujo Neta,L., Silva,G. and Gibertoni,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2012) Micologia, Universidade Federal de
+            Pernambuco, Rua Prof. Nelson Chaves, S/N - Cidade Universitaria,
+            Recife, Pernambuco 50670-420, Brazil
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Lachnocladium schweinfurthianum"
+                     /mol_type="genomic DNA"
+                     /isolation_source="basidioma"
+                     /specimen_voucher="URM 84267"
+                     /db_xref="taxon:1290959"
+                     /country="Brazil: Mata Alantica Rain Forest, Pernambuco"
+                     /collected_by="L. Araujo Neta"
+                     /identified_by="L. Araujo Neta,T. Gibertoni"
+     misc_RNA        <1..>640
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA and internal transcribed spacer 2"
+ORIGIN      
+        1 ggttgttgct ggcaagtctt aattgtattt gcatgtgyac accttttctt tttttactta
+       61 cgtctttctt tcttatccac cccctttatt gtgaatcttt gcgggagtta gtaagggtct
+      121 tctttgcttg gccttgaaag ctaacgaatt tttaaatcat atactcattt tgtaaagtct
+      181 attattgtat gttactattt attgcgttaa ttcgcattaa aactattaca actttcagca
+      241 acggatctct tggctctcgc atcgatgaag aacgcagcga aatgcgataa ttaatgtgaa
+      301 ttgcagaatt cagtgaatca tcgaatcttt gaacgcacct tgcacccctt ggtattccga
+      361 ggggtacacc tgtttgagtg tcgtgaattc ctccdacttc tttaattttt attaaagaaa
+      421 gtttgggact ttgggagttt tttttttgca ggtgatgact cttgttgaca tctgctctcc
+      481 ttaaatgtat tagcaataaa gacgaccatc tgttaattat tgttgtcccc tttggcattg
+      541 ataggttatc tatgcctgct tattgtggac tttatttagc agaataaagg gtttgttgtt
+      601 rcttctaatc gtctttcttt caaagacaaa tattatcttg
+//

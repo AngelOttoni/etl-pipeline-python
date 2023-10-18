@@ -1,0 +1,1013 @@
+LOCUS       MH260034                 696 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher KM57848 clone 1 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   MH260034
+VERSION     MH260034.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 696)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 696)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..696
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM57848"
+                     /db_xref="taxon:2173611"
+                     /clone="1"
+     misc_RNA        <1..>696
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 cattaatgaa agtctataaa gcgttttgtt tttagaaagg ttgttgctgg caagtcttat
+       61 ttgtatttgt atttgcatgt gcacaccttt tcttttttac attacgtctt tctttcttat
+      121 ccaccccctt tattgtgaat ctttgcggga gttagtaagg gtcttctttg cttggccttg
+      181 aaagctaacg aatttttaaa tcatatactc attttgtaag tctattattg tatgttacta
+      241 tttattgcgt taattcgcat taaaactatt acaactttca gcaacggatc tcttggctct
+      301 cgcatcgatg aagaacgcag cgaaatgcga taactaatgt gaattgcaga attcagtgaa
+      361 tcatcgaatc tttgaacgca ccttgcaccc cttggtattc cgaggggtac acctgtttga
+      421 gtgtcatgaa ttcctccaac ttctttaatt tttattaaag aaagtttggg actttgggag
+      481 ttttttttgc aggtgatgac tcttgttgac atctgctctc cttaaatgta ttagcaataa
+      541 agacaaccat ctgttaatta ttgttgtccc ctttggcatt gataggttat ctatgcctgc
+      601 ttattgtgga ctttatttag cagaataaag ggtttgttgt tgcttctaat cgtctttctt
+      661 tcaaagacaa agattatatt atcttgaact tgacct
+//
+
+LOCUS       MH260035                 697 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher KM57848 clone 2 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   MH260035
+VERSION     MH260035.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 697)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 697)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..697
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM57848"
+                     /db_xref="taxon:2173611"
+                     /clone="2"
+     misc_RNA        <1..>697
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 cattaatgaa agtctataaa gcgttttgtt tttagaaagg ttgttgctgg caagtcttat
+       61 ttgtatttgt atttgcatgt gcacaccttt tcttttttac attacgtctt tctttcttat
+      121 ccaccccctt tattgtgaat ctttgcgggg gttagtaagg gtcttctttg cttggccttg
+      181 aaagctaacg aatttttaaa tcatatactc attttgtaaa gtctattatt gtatgttact
+      241 atttattgcg ttaattcgca ttaaaactat tacaactttc agcaacggat ctcttggctc
+      301 tcgcatcgat gaagaacgca gcgaaatgcg ataactaatg tgaattgcag aattcagtga
+      361 atcatcgaat ctttgaacgc accttgcacc ccttggtatt ccgaggggta cacctgtttg
+      421 agtgtcrtga aytcctccaa cttctttaat ttttattaaa gaaagtttgg gactttggga
+      481 gttttttttg caggtgatga ctcttgttga catctgctct ccttaaatgt attagcaata
+      541 aagacaacca tctgttaatt attgttgtcc cctttggcat tgataggtta tctatgcctg
+      601 cttattgtgg actttattta gcagaataaa gggtttgttg ttgcttctaa tcgtctttct
+      661 ttcaaagaca aagattatat tatcttgaac ttgacct
+//
+
+LOCUS       MH260036                 697 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher KM57848 clone 3 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   MH260036
+VERSION     MH260036.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 697)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 697)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..697
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM57848"
+                     /db_xref="taxon:2173611"
+                     /clone="3"
+     misc_RNA        <1..>697
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 cattaatgaa agtctataaa gcgttttgtt tttagaaagg ttgttgctgg caagtcttat
+       61 ttgtatttgt atttgcatgt gcacaccttt tcttttttac attacgtctt tctttcttat
+      121 ccaccccctt tattgtgaat ctttgcggga gttagtaagg gtcttctttg cttggccttg
+      181 aaagctaacg aatttttaaa tcatatactc attttgtaaa gtctattatt gtatgttact
+      241 atttattgcg ttaattcgca ttaaaactat tacaactttc agcaacggat ctcttggctc
+      301 tcgcatcgat gaagaacgca gcgaaatgcg ataagtaatg tgaattgcag aattcagtga
+      361 atcatcgaat ctttgaacgc accttgcacc ccttggtatt ccgaggggta cacctgtttg
+      421 agtgtcgtga attcctccaa cttctttaat ttttattaaa gaaagtttgg gactttggga
+      481 gttttttttg caggtgatga ctcttgttga catctgctct ccttaaatgt attagcaata
+      541 aagacaacca tctgttaatt attgttgtcc cctttggcat tgataggtta tctatgcctg
+      601 cttattgtgg actttattta gcagaataaa gggtttgttg ttgcttctaa tcgtctttct
+      661 ttcaaagaca aagattatat tatcttgaac ttgacct
+//
+
+LOCUS       MH260037                 692 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher CALD161213_01 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   MH260037
+VERSION     MH260037.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 692)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 692)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..692
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CALD161213_01"
+                     /db_xref="taxon:2173611"
+     misc_RNA        <1..>692
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 cattaatgaa agtctataaa gcgttttgtt tttttagaaa ggttgttgct ggcaagtctt
+       61 aattgtattt gcatgtgcac accttttctt tttttacatt acgtctttct ttcttatcca
+      121 ccccctttat tgtgaatctt tgcgggagtt agtaagggtc ttctttgctt ggccttgaaa
+      181 gctaacgaat ttttaaatma tatactcatt ttgtaaagtc tattattgta tgttactatt
+      241 tattgcgtta attcgcatta aaactattac aactttcagc aacggatctc ttggctctcg
+      301 catcgatgaa gaacgcagcg aaatgcgata attaatgtga attgcagaat tcagtgaatc
+      361 atcgaatctt tgaacgcacc ttgcacccct tggtattccg aggggtacac ctgtttgagt
+      421 gtcgtgaatt cctccaactt ctttaatttt tattaaagaa agtttgggac tttgggagtt
+      481 ttttttttgc aggtgatgac tcttgttgac atctgctctc cttaaatgta ttagcaataa
+      541 agacgaccat ctgttaatta ttgttgtccc ctttggcatt gataggttat ctatgcctgc
+      601 ttattgtgga ctttatttag cagaataaag ggtttgttgt tgcttctaat cgtctttctt
+      661 tcaaagacaa atattatctt tgaacttgac ct
+//
+
+LOCUS       MH260052                 832 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher KM57848 clone 1 large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   MH260052
+VERSION     MH260052.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 832)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 832)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..832
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM57848"
+                     /db_xref="taxon:2173611"
+                     /clone="1"
+     rRNA            <1..>832
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 ggattcccct agtaactgcg agtgaagcgg gaagagctca aatttaaaat ctggcggttt
+       61 tgccgtccga gttgtaattt agagaagcat tttccgcgtc ggaccgtgta caagtctcct
+      121 ggaacggagc gtcatagagg gtgagaatcc cgtctttgac acggactacc gaggctttgt
+      181 gatatgctct caaagagtcg agttgtttgg gaatgcagct caaaatgggt ggtgaactcc
+      241 atctaaagct aaatattggc gagagaccga tagcgaacaa gtaccgtgag ggaaagatga
+      301 aaagcacttt ggaaagagag tgaaacagta cgtgaaattg ctgaaaggga aacgcttgaa
+      361 gtcagtcgca tctaccagaa ttcagccttt gtggtgtact ttctggttgg atgggccagc
+      421 atcacttttg gtcattggaa aagggtaggg gaaaggtggc acctatttgg gtgtgttata
+      481 gtcctctgcc atatacagtg gctgggagtg aggaatgcct ttttttgtag gatgcttggc
+      541 gtaatggctt taaacgaccc gtcttgaaac acggaccaag gagtctaaca tgcccgcgag
+      601 tgttcgggtg gttaaaaccc gtgcgcgtaa tgaaagtgaa agttgggaag gctgtcatgg
+      661 cctgcactga cgcccggact tgagatttat cgacggttct gcggtagagc gtgtatgttg
+      721 ggacccgaga gatggtgaac tatgcctgaa tagggtgaag ccagaggaaa ctctggtgga
+      781 ggctcgtagc gattctgacg tgcaaatcga tcgtcaaatt tgggtatagg gg
+//
+
+LOCUS       MH260053                 793 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher KM57848 clone 2 large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   MH260053
+VERSION     MH260053.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 793)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 793)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..793
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM57848"
+                     /db_xref="taxon:2173611"
+                     /clone="2"
+     rRNA            <1..>793
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 ggattcccct agtaactgcg agtgaagcgg gaagagctca aatttaaaat ctggcggttt
+       61 tgccgtccga gttgtaattt agagaagcat tttccgcgtc ggaccgtgta caagtctcct
+      121 ggaacggagc gtcatagagg gtgagaatcc cgtctttgac acggactacc gaggctttgt
+      181 gatatgctct caaagagtcg agttgtttgg gaatgcagct caaaatgggt ggtgaactcc
+      241 atctaaagct aaatattggc gagagaccga tagcgaacaa gtaccgtgag ggaaagatga
+      301 aaagcacttt ggaaagagag tgaaacagta cgtgaaattg ctgaaaggga aacgcttgaa
+      361 gtcagtcgca tctaccagaa ttcagccttt gtggtgtact ttctggttgg atgggccagc
+      421 atcacttttg gtcattggaa aagggtaggg gaaaggtggc acctatttgg gtgtgttata
+      481 gtcctctgcc atatacagtg gctgggagtg aggaatgcct ttttttgtag gatgcttggc
+      541 gtaatggctt taaacgaccc gtcttgaaac acggaccaag gagtctaaca tgcccgcgag
+      601 tgttcgggtg gttaaaaccc gtgcgcgtaa tgaaagtgaa agttgggaag gctgtcatgg
+      661 cctgcactga cgcccggact tgagatttat cgacggttct gcggtagagc gtgtatgttg
+      721 ggacccgaaa gatggtgaac tatgcctgaa tagggtgaag ccagaggaaa ctctggtgga
+      781 gctcgtagcg att
+//
+
+LOCUS       MH260054                 831 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher KM57848 clone 3 large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   MH260054
+VERSION     MH260054.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 831)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 831)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..831
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM57848"
+                     /db_xref="taxon:2173611"
+                     /clone="3"
+     rRNA            <1..>831
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 ggattcccct agtaactgcg agtgaagcgg gaagagctca aatttaaaat ctggcggttt
+       61 tgccgtccga gttgtaattt agagaagcat tttccgcgtc ggaccgtgta caagtctcct
+      121 ggaacggagc gtcatagagg gtgagaatcc cgtctttgac acggactacc gagactttgt
+      181 gatatgctct caaagagtcg agttgtttgg gaatgcagct caaaatgggt ggtgaactcc
+      241 atctaaagct aaatattggc gagagaccga tagcgaacaa gtaccgtgag ggaaagatga
+      301 aaagcacttt ggaaagagag tgaaacagta cgtgaaattg ctgaaaggga aacgcttgaa
+      361 gtcagtcaca tctaccagaa ttcagccttt gtggtgtact ttctggttgg atgggccagc
+      421 atcacttttg gtcattggaa aagggtaggg gaaaggtggc acctatttgg gtgtgttata
+      481 gtcctctgcc atatacagtg gctgggagtg aggaatgcct ttttttgtag gatgcttggc
+      541 gtaatggctt taaacgaccc gtcttgaaac acggaccaag gagtctaaca tgcccgcgag
+      601 tgttcgggtg gttaaacccg tgcgcgtaat gaaagtgaaa gttgggaagg ctgtcatggc
+      661 ctgcactgac gcccggactt gagatttatc gacggttctg cggtagagcg tgtatgttgg
+      721 gacccgaaag atggtgaact atgcctgaat agggtgaagc cagaggaaac tctggtggag
+      781 gctcgtagcg attctgacgt gcaaatcgat cgtcaaattt gggtataggg g
+//
+
+LOCUS       MH260055                 833 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium cf. brasiliense voucher CALD161213_01 large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   MH260055
+VERSION     MH260055.1
+KEYWORDS    .
+SOURCE      Lachnocladium cf. brasiliense
+  ORGANISM  Lachnocladium cf. brasiliense
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 833)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 833)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..833
+                     /organism="Lachnocladium cf. brasiliense"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CALD161213_01"
+                     /db_xref="taxon:2173611"
+     rRNA            <1..>833
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 ggattcccct agtaactgcg agtgaagcgg gaagagctca aatttaaaat ctggcggttt
+       61 tgccgtccga gttgtaattt agagaagcat tttccgcgtc ggaccgtgta caagtctcct
+      121 ggaacggagc gtcatagagg gtgagaatcc cgtctttgac acggactacc gaggctttgt
+      181 gatatgctct caaagagtcg agttgtttgg gaatgcagct caaaatgggt ggtgaactcc
+      241 atctaaagct aaatattggc gagagaccga tagcgaacaa gtaccgtgag ggaaagatga
+      301 aaagcacttt ggaaagagag tgaaacagta cgtgaaattg ctgaaaggga aacgcttgaa
+      361 gtcagtcgca tctaccagaa ttcagccttt gtggtgtact ttctggttgg atgggccagc
+      421 atcacttttg gtcattggaa aagggtaggg gaaaggtggc accctttggg tgtgttatag
+      481 tcctctgcca tatacagtgg ctgggagtga ggaatgcctt ttattttgta ggatgcttgg
+      541 cgtaatggct ttaaacgacc cgtcttgaaa cacggaccaa ggagtctaac atgcccgcga
+      601 gtgttcgggt ggttaaaacc cgtgcgcgta atgaaagtga aagttgggaa ggctgtcatg
+      661 gcctgcactg acgcccggac ttgagattta tcgacggttc tgcggtagag cgtgtatgtt
+      721 gggacccgaa agatggtgaa ctatgcctga atagggtgaa gccagaggaa actctggtgg
+      781 aggctcgtag cgattctgac gtgcaaatcg atcgtcaaat ttgggtatag ggg
+//
+
+LOCUS       KC348469                 640 bp    DNA     linear   PLN 17-DEC-2014
+DEFINITION  Lachnocladium schweinfurthianum voucher URM 84267 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC348469
+VERSION     KC348469.1
+KEYWORDS    .
+SOURCE      Lachnocladium schweinfurthianum
+  ORGANISM  Lachnocladium schweinfurthianum
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Araujo Neta,L., Silva,G. and Gibertoni,T.
+  TITLE     Species of Basidiomycota in Pernambuco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Araujo Neta,L., Silva,G. and Gibertoni,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2012) Micologia, Universidade Federal de
+            Pernambuco, Rua Prof. Nelson Chaves, S/N - Cidade Universitaria,
+            Recife, Pernambuco 50670-420, Brazil
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Lachnocladium schweinfurthianum"
+                     /mol_type="genomic DNA"
+                     /isolation_source="basidioma"
+                     /specimen_voucher="URM 84267"
+                     /db_xref="taxon:1290959"
+                     /country="Brazil: Mata Alantica Rain Forest, Pernambuco"
+                     /collected_by="L. Araujo Neta"
+                     /identified_by="L. Araujo Neta,T. Gibertoni"
+     misc_RNA        <1..>640
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA and internal transcribed spacer 2"
+ORIGIN      
+        1 ggttgttgct ggcaagtctt aattgtattt gcatgtgyac accttttctt tttttactta
+       61 cgtctttctt tcttatccac cccctttatt gtgaatcttt gcgggagtta gtaagggtct
+      121 tctttgcttg gccttgaaag ctaacgaatt tttaaatcat atactcattt tgtaaagtct
+      181 attattgtat gttactattt attgcgttaa ttcgcattaa aactattaca actttcagca
+      241 acggatctct tggctctcgc atcgatgaag aacgcagcga aatgcgataa ttaatgtgaa
+      301 ttgcagaatt cagtgaatca tcgaatcttt gaacgcacct tgcacccctt ggtattccga
+      361 ggggtacacc tgtttgagtg tcgtgaattc ctccdacttc tttaattttt attaaagaaa
+      421 gtttgggact ttgggagttt tttttttgca ggtgatgact cttgttgaca tctgctctcc
+      481 ttaaatgtat tagcaataaa gacgaccatc tgttaattat tgttgtcccc tttggcattg
+      541 ataggttatc tatgcctgct tattgtggac tttatttagc agaataaagg gtttgttgtt
+      601 rcttctaatc gtctttcttt caaagacaaa tattatcttg
+//
+
+LOCUS       MH260033                 690 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium schweinfurthianum voucher KM49740 internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   MH260033
+VERSION     MH260033.1
+KEYWORDS    .
+SOURCE      Lachnocladium schweinfurthianum
+  ORGANISM  Lachnocladium schweinfurthianum
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 690)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 690)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..690
+                     /organism="Lachnocladium schweinfurthianum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM49740"
+                     /db_xref="taxon:1290959"
+     misc_RNA        <1..>690
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 cattagttgt tgctggcttc tatccctctc tctgccctgc cttcccggtg gggtgtgaag
+       61 ggtgtgtggg gcatatttat aagtgcacac ttgtgttgcg tctttcttct attccaaccc
+      121 cttatgtgaa ccattagcgg gagctagtaa aggggtttct tataatccct tgaacactcg
+      181 cgatattctt attataatac tccttttgtt aaagtctatt gtatgtccac ctttttgcgt
+      241 taactcgcat gaaatacaac tttcagcaac ggatctcttg gctctcgcat cgatgaagaa
+      301 cgcagcgaaa tgcgataagt aatgtgaatt gcagaattca gtgaatcatc gaatctttga
+      361 acgcaccttg caccccttgg tattccgagg ggtacacctg tttgagtgtc gtgaattcct
+      421 ccatcttctt aatattttat tattattgag aagcttggga taatgggaga tttatttgca
+      481 ggtttgaaaa aggatctgct ctccttgaat gcattagcaa taaagcctaa ccctctgtta
+      541 atattgtggc ctcggcattg atagattatc tatgcccctt ggcttattaa cagggagaaa
+      601 ggtgatattg cttcaaattg tctttggaca attgtgtgtt gttgttgttt aatactacta
+      661 ctactataca cacatctttg aacttgacct
+//
+
+LOCUS       MH260051                 829 bp    DNA     linear   PLN 10-AUG-2018
+DEFINITION  Lachnocladium schweinfurthianum voucher KM49740 clone 1 large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   MH260051
+VERSION     MH260051.1
+KEYWORDS    .
+SOURCE      Lachnocladium schweinfurthianum
+  ORGANISM  Lachnocladium schweinfurthianum
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 829)
+  AUTHORS   Leal-Dutra,C.A., Neves,M.A., Griffith,G.W., Reck,M.A., Clasen,L.A.
+            and Dentinger,B.T.
+  TITLE     Reclassification of Parapterulicium Corner (Pterulaceae,
+            Agaricales), contributions to Lachnocladiaceae and Peniophoraceae
+            (Russulales) and introduction of Baltazaria gen. nov.
+  JOURNAL   MycoKeys 37, 39-56 (2018)
+REFERENCE   2  (bases 1 to 829)
+  AUTHORS   Leal-Dutra,C.A., Dentinger,B.T. and Griffith,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2018) Institute of Biological, Environmental &
+            Rural Sciences, Aberystwyth University, F28 Cledwyn Building,
+            Penglais, Aberystwyth, Ceredigion SY23 3DD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..829
+                     /organism="Lachnocladium schweinfurthianum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KM49740"
+                     /db_xref="taxon:1290959"
+                     /clone="1"
+     rRNA            <1..>829
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 ggattcccct agtaactgcg agtgaagcgg gaagagctca aatttaaaat ctgatagctt
+       61 ttagctgtcc gagttgtaat ttagagaagc attttccgcg tcggaccgtg tacaagtctc
+      121 ctggaatgga gcgtcataga gggtgagaat cccgtctttg acacggacta ccggggctct
+      181 gtgatatgct ctcaaagagt cgagttgttt gggaatgcag ctcaaaatgg gtggtgaact
+      241 ccatctaaag ctaaatattg gcgagagacc gatagcgaac aagtaccgtg agggaaagat
+      301 gaaaagcact ttggaaagag agtgaaacag tacgtgaaat tgctgaaagg gaaacgcttg
+      361 aagtcagtcg catctgccag aattcagcct ttgtggtgta ctttctggtg tgatgggcca
+      421 gcatcacttt ttggtcgtcg gaaaagggca ggggaaaggt ggcaccttcg ggtgtgttat
+      481 agtcccttgt cgtatacggt ggctgggagt gaggaatgcc tttgttgcag gatgctggca
+      541 taatggcttt aaacgacccg tcttgaaaca cggaccaagg agtctaacat gcccgcgagt
+      601 gttcgggtgg aaaacccgtg cgcgtaatga aagtgaaagt tgggaaggct gtcatggcct
+      661 gcaccgacgc ccggacctga gatttatcga cggttctgcg gtagagcgtg tatgttggga
+      721 cccgaaaggt ggtgaactat gcctgaatag ggtgaagcca gaggaaactc tggtggaggc
+      781 tcgtagcgat tctgacgtgc aaatcgatcg tcaaatttgg gtatagggg
+//
+
+LOCUS       MK546809                 209 bp    DNA     linear   PLN 26-FEB-2019
+DEFINITION  Lachnocladium sp. voucher GG-GUY-12-145 small subunit ribosomal RNA
+            gene and internal transcribed spacer 1, partial sequence.
+ACCESSION   MK546809
+VERSION     MK546809.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp.
+  ORGANISM  Lachnocladium sp.
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 209)
+  AUTHORS   Jaouen,G., Sagne,A., Buyck,B., Decock,C., Louisanna,E., Manzi,S.,
+            Baraloto,C., Roy,M. and Schimann,H.
+  TITLE     Fungi of French Guiana: an online dataset to gather taxonomic,
+            environmental and molecular data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 209)
+  AUTHORS   Schimann,H. and Roy,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2019) Ecologie des Forets de Guyane, INRA, Campus
+            agronomique, Kourou 97379, French Guiana
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Obitools v. 1.1.18
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..209
+                     /organism="Lachnocladium sp."
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GG-GUY-12-145"
+                     /db_xref="taxon:2528358"
+                     /country="French Guiana"
+                     /lat_lon="5.268378 N 52.9355 W"
+                     /altitude="20 m"
+                     /collection_date="24-Jun-2012"
+                     /collected_by="G. Gruhn"
+                     /identified_by="G. Gruhn"
+     misc_RNA        <1..>209
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+ORIGIN      
+        1 tttccgtagg tgaacctgcg gaaggatcat taaagaaacc gtcgaggagt ggctctaaac
+       61 cggcccttct cgctctttcc atctacccct ttgtgcacct ttgcgtggac cagtacgggc
+      121 tgcctatgcg cggctcggaa cgttcgcgtt tttatcatat accctttaga aagtctcagg
+      181 atgtaccttg cgtttactcg cataaatac
+//
+
+LOCUS       MZ264407                 258 bp    DNA     linear   PLN 26-MAY-2021
+DEFINITION  Lachnocladium sp. voucher RC-MART-10-038 small subunit ribosomal
+            RNA gene and internal transcribed spacer 1, partial sequence.
+ACCESSION   MZ264407
+VERSION     MZ264407.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp.
+  ORGANISM  Lachnocladium sp.
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 258)
+  AUTHORS   Jaouen,G., Sagne,A., Buyck,B., Decock,C., Louisanna,E., Manzi,S.,
+            Baraloto,C., Roy,M. and Schimann,H.
+  TITLE     Fungi of French Guiana gathered in a taxonomic, environmental and
+            molecular dataset
+  JOURNAL   Sci Data 6 (1), 206 (2019)
+   PUBMED   31619686
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 258)
+  AUTHORS   Schimann,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAY-2021) UMR ECOFOG, CNRS, Campus agronomique,
+            Kourou, Guyane 97310, French Guiana
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Obitools3 v. 3.0.0b41; dada2 v. 1.16.0
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..258
+                     /organism="Lachnocladium sp."
+                     /mol_type="genomic DNA"
+                     /isolation_source="foret mesophile"
+                     /host="unknown"
+                     /specimen_voucher="RC-MART-10-038"
+                     /db_xref="taxon:2528358"
+                     /country="Martinique: Le Francois; Pointe Bateau"
+                     /lat_lon="14.61298656 N 60.88794708 W"
+                     /collection_date="26-Aug-2010"
+                     /collected_by="R. Courtecuisse"
+                     /identified_by="R. Courtecuisse"
+                     /PCR_primers="fwd_name: Fungi-ITS1-forward, fwd_seq:
+                     caagagatccgttgttgaaagtt, rev_name: Fungi-ITS1-reverse,
+                     rev_seq: ggaagtaaaagtcgtaacaagg"
+     misc_RNA        <1..>258
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+ORIGIN      
+        1 tttccgtagg tgaacctgcg gaaggatcat taatgaaagt taaaacgttg cattgggttg
+       61 ttgctggccc cccttattgg ggggcatatg tgcacacttg tgttgcgtct ttcttctatc
+      121 tcaccccttt tatgtgaacc tttcgggagc tagtaggggc aatgtattta ttgattgcct
+      181 tgaaagttct catatcatat acaccttttg taaagtctat tgtatgtcat tttttttgca
+      241 ttaatttgca tgaaatac
+//
+
+LOCUS       OP580229                 543 bp    DNA     linear   PLN 15-NOV-2022
+DEFINITION  Lachnocladium sp. voucher ARF-4670 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   OP580229
+VERSION     OP580229.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp.
+  ORGANISM  Lachnocladium sp.
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 543)
+  AUTHORS   Smith,M.E., Willis,C., Franck,A. and Kaminsky,L.
+  TITLE     Biodiversity of Florida Fungi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 543)
+  AUTHORS   Smith,M.E., Willis,C., Franck,A. and Kaminsky,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2022) Department of Plant Pathology, University
+            of Florida, 2527 Fifield Hall, Gainesville, FL 32611, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..543
+                     /organism="Lachnocladium sp."
+                     /mol_type="genomic DNA"
+                     /isolation_source="fruiting body"
+                     /specimen_voucher="ARF-4670"
+                     /bio_material="FLAS-F-70022"
+                     /db_xref="taxon:2528358"
+                     /country="USA: Florida"
+                     /collected_by="Alan R Franck"
+     misc_RNA        <1..>543
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN      
+        1 atgtgcacac ttgtgttgcg tctttcttct atctcacccc ttttatgtga acctttcggg
+       61 anctagtagg ggcaatgtat nnttgattgc cttgaaagtt ctcatatcat atacaccttt
+      121 tgtaaagtct attgtatgtc attttttttg cattaatttg catgaaatac aactttcagc
+      181 aacggatctc ttggctctcg catcgatgaa gaacgcagcg aaatgcgata agtaatgtga
+      241 attgcagaat tcagtgaatc atcgaatctt tgaacgcacc ttgcacccct tggtattccg
+      301 aggggtacac ctgtttgagt gtcgtgaatt cctccatctt cttaatttgt tgttaagaag
+      361 ctttgggact ttgggagtct ttgcaggttt gaaaaaaatc tgctctcctt gaatgcatta
+      421 gcaaataaaa gcctctgtta aattaaatgt ggccctggca ttgatagata tctatgcatc
+      481 ttggctttta gcagagataa gacttgcttc aaattgtctt ttagacaaag ataccatttg
+      541 aac
+//
+
+LOCUS       OP580230                 656 bp    DNA     linear   PLN 15-NOV-2022
+DEFINITION  Lachnocladium sp. voucher ARF-4928 small subunit ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1 and 5.8S
+            ribosomal RNA gene, complete sequence; and internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   OP580230
+VERSION     OP580230.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp.
+  ORGANISM  Lachnocladium sp.
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 656)
+  AUTHORS   Smith,M.E., Willis,C., Franck,A. and Kaminsky,L.
+  TITLE     Biodiversity of Florida Fungi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 656)
+  AUTHORS   Smith,M.E., Willis,C., Franck,A. and Kaminsky,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2022) Department of Plant Pathology, University
+            of Florida, 2527 Fifield Hall, Gainesville, FL 32611, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..656
+                     /organism="Lachnocladium sp."
+                     /mol_type="genomic DNA"
+                     /isolation_source="fruiting body"
+                     /specimen_voucher="ARF-4928"
+                     /bio_material="FLAS-F-70023"
+                     /db_xref="taxon:2528358"
+                     /country="USA: Florida"
+                     /collected_by="Alan R Franck"
+     misc_RNA        <1..>656
+                     /note="contains small subunit ribosomal RNA, internal
+                     transcribed spacer 1, 5.8S ribosomal RNA, and internal
+                     transcribed spacer 2"
+ORIGIN      
+        1 ccagataagg ttcgtaggtg acctgcggaa ggatcattaa tgaaagttaa aacgtggcat
+       61 tgggttgttg ctggccccct tattgggggg gcatatgtgc acacttgggt tgcgtctttc
+      121 ttctatctca ccccttttat gtgaaccttt cgggagctag taggggcaat gtattattga
+      181 ttgccttgaa agttctcata tcatatacmc cttttgtaaa gtytattgta tgtcattttt
+      241 ttttgcatta atttgcatga aatacaactt tcagcaacgg atctcttggc tctcgcatcg
+      301 atgaagaacg cagcgaaatg cgataagtaa tgtgaattgc araattcagt gaatcatcra
+      361 atctttgaac gcmccttgcm ccccttggta ttccgagggg yacacctgtt tgagtgtcgw
+      421 gaattcctcc atcttcttaa tttgttgtta araagctttg ggactttggg agtctttgca
+      481 ggtttgaaaa aaatctgctc tccttgaatg cattarcaaa taaaagcctc tgttaaatta
+      541 aatgkggccc tggcattgat agatatctat gcatcttggc ttttagcaga gataagactt
+      601 gcttcaaatt gtctttttag acaaagatac cattttgaac ttgacctcag atcagg
+//
+
+LOCUS       DQ154110                1410 bp    DNA     linear   PLN 23-OCT-2007
+DEFINITION  Lachnocladium sp. BK171002-23 isolate AFTOL-ID 1556 25S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   DQ154110
+VERSION     DQ154110.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp. BK171002-23
+  ORGANISM  Lachnocladium sp. BK171002-23
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 1410)
+  AUTHORS   Curtis,J.M., Matheny,P.B., Kropp,B.R. and Hibbett,D.S.
+  TITLE     Assembling the Fungal Tree of Life
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1410)
+  AUTHORS   Curtis,J.M., Matheny,P.B., Kropp,B.R. and Hibbett,D.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-AUG-2005) Biology, Clark University, 950 Main Street,
+            Worcester, MA 01610, USA
+FEATURES             Location/Qualifiers
+     source          1..1410
+                     /organism="Lachnocladium sp. BK171002-23"
+                     /mol_type="genomic DNA"
+                     /strain="BK171002-23"
+                     /isolate="AFTOL-ID 1556"
+                     /db_xref="AFTOL:1556"
+                     /db_xref="taxon:341460"
+     rRNA            <1..>1410
+                     /product="25S ribosomal RNA"
+ORIGIN      
+        1 tgtacccgct gaacttaagc atatcaataa gcggaggaaa agaaactaac aaggattccc
+       61 ctagtaactg cgagtgaagc gggaagagct caaatttaaa atctggcggt tttgccgtcc
+      121 gagttgtaat ttagagaagc attttccgcg tcggaccgtg tacaagtctc ctggaacgga
+      181 gcgtcataga gggtgagaat cccgtctttg acacggacta ccgaggcttt gtgatatgct
+      241 ctcaaagagt cgagttgttt gggaatgcag ctcaaaatgg gtggtgaact ccatctaaag
+      301 ctaaatattg gcgagagacc gatagcgaac aagtaccgtg agggaaagat gaaaagcact
+      361 ttggaaagag agtgaaacag tacgtgaaat tgctgaaagg gaaacgcttg aagtcagtcg
+      421 catctaccag aattcagcct ttgtggtgta ctttctggtt ggatgggcca gcatcacttt
+      481 tggtcattgg aaaagggtag gggaaaggtg gcaccctttg ggtgtgttat agtcctctgc
+      541 catatacagt ggctgggagt gaggaatgcc ttttttgtag gatgcttggc gtaatggctt
+      601 taaacgaccc gtcttgaaac acggaccaag gagtctaaca tgcccgcgag tgttcgggtg
+      661 gttaaaaccc gtgcgcgtaa tgaaagtgaa agttgggaag gctgtcatgg cctgcactga
+      721 cgcccggact tgagatttat cgacggttct gcggtagagc gtgtatgttg ggacccgaaa
+      781 gatggtgaac tatgcctgaa tagggtgaag ccagaggaaa ctctggtgga ggctcgtagc
+      841 gattctgacg tgcaaatcga tcgtcaaatt tgggtatagg ggcgaaagac taatcgaacc
+      901 atctagtagc tggttcctgc cgaagtttcc ctcaggatag cagaaactca tgtcagattt
+      961 atgtggtaaa gcgaatgatt agaggccttg gggttgaaac aaccttaacc tattctcaaa
+     1021 ctttaaatat gtaagaacga gccgtcactt gattggaccg ctcggtgatt gagagtttct
+     1081 agtgggccat ttttggtaag cagaactggc gatgcgggat gaaccgaacg ggaggttaag
+     1141 gtgccggaat ctacgctcat cagacaccac aaaaggtgtt agttcatcta gacagcagga
+     1201 cggtggccat ggaagtcgga acccgctaag gagtgtgtaa caactcacct gccgaatgaa
+     1261 ctagccctga aaatggatgg cgctcaagcg tagtacccat acctccccct gggcgttgaa
+     1321 gtgacgcgcc caggagtagg caggcgtgga ggttaagtga agaagcctag gcagtgatgc
+     1381 tgggtgaaac agcctctagt gcagatcttg
+//
+
+LOCUS       DQ192176                 540 bp    DNA     linear   PLN 23-OCT-2007
+DEFINITION  Lachnocladium sp. BK171002-23 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   DQ192176
+VERSION     DQ192176.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp. BK171002-23
+  ORGANISM  Lachnocladium sp. BK171002-23
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 540)
+  AUTHORS   Matheny,P.B. and Hibbett,D.S.
+  TITLE     Assembling the Fungal Tree of Life
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 540)
+  AUTHORS   Curtis,J.M., Matheny,P.B., Kropp,B.R. and Hibbett,D.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-SEP-2005) Biology, Clark University, 950 Main St,
+            Worcester, MA 01610, USA
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Lachnocladium sp. BK171002-23"
+                     /mol_type="genomic DNA"
+                     /isolate="AFTOL-ID 1556"
+                     /specimen_voucher="BK171002-23 (UTC) Belize"
+                     /db_xref="AFTOL:1556"
+                     /db_xref="taxon:341460"
+     rRNA            <1..60
+                     /product="18S ribosomal RNA"
+     misc_RNA        61..322
+                     /product="internal transcribed spacer 1"
+     rRNA            323..480
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        481..>540
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 tttagaggaa gtaaaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcatta
+       61 atgaaagtct ataaagcgtt ttgtttttag aaaggttgtt gctggcaagt cttaattgta
+      121 tttgcatgtg cacacctttt ctttttttac attacgtctt tctttcttat ccaccccctt
+      181 tattgtgaat ctttgcggga gttagtaagg gtcttctttg attggccttg aaagctaacg
+      241 aactttttaa tcatatactc attttgtaaa gtctattatt gtatgttact atttattgcg
+      301 ttaattcgca ttaaaactat tacaactttc agcaacggat ctcttggctc tcgcatcgat
+      361 gaagaacgca gcgaaatgcg ataactaatg tgaattgcag aattcagtga atcatcgaat
+      421 ctttgaacgc accttgcacc ccttggtatt ccgaggggta cacctgtttg agtgtcgtga
+      481 attcctccaa cttctttaat ttttattaaa gaaagtttgg gactttggga gttttttttt
+//
+
+LOCUS       DQ457625                1792 bp    DNA     linear   PLN 12-OCT-2007
+DEFINITION  Lachnocladium sp. BK171002-23 18S small subunit ribosomal RNA gene,
+            partial sequence.
+ACCESSION   DQ457625
+VERSION     DQ457625.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp. BK171002-23
+  ORGANISM  Lachnocladium sp. BK171002-23
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 1792)
+  AUTHORS   Matheny,P.B., Curtis,J.M., Hofstetter,V., Aime,M.C., Moncalvo,J.M.,
+            Ge,Z.W., Slot,J.C., Ammirati,J.F., Baroni,T.J., Bougher,N.L.,
+            Hughes,K.W., Lodge,D.J., Kerrigan,R.W., Seidl,M.T., Aanen,D.K.,
+            DeNitis,M., Daniele,G.M., Desjardin,D.E., Kropp,B.R., Norvell,L.L.,
+            Parker,A., Vellinga,E.C., Vilgalys,R. and Hibbett,D.S.
+  TITLE     Major clades of Agaricales: a multilocus phylogenetic overview
+  JOURNAL   Mycologia 98 (6), 982-995 (2006)
+   PUBMED   17486974
+REFERENCE   2  (bases 1 to 1792)
+  AUTHORS   Matheny,P.B., Curtis,J.M., Kropp,B.R. and Hibbett,D.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAR-2006) Biology, Clark University, 950 Main Street,
+            Worcester, MA 01610, USA
+FEATURES             Location/Qualifiers
+     source          1..1792
+                     /organism="Lachnocladium sp. BK171002-23"
+                     /mol_type="genomic DNA"
+                     /isolate="AFTOL-ID 1556"
+                     /specimen_voucher="BK171002-23"
+                     /db_xref="AFTOL:1556"
+                     /db_xref="taxon:341460"
+                     /country="Belize"
+     rRNA            <1..>1792
+                     /product="18S small subunit ribosomal RNA"
+ORIGIN      
+        1 tccaagcttg aattcgtagt catatgcttg tctcaaagat taagccatgc atgtctaagt
+       61 ataaccacgt ttgtactggg aaactgcgaa tggctcatta aatcagttat agtttatttg
+      121 atggtccctt gctacatgga taactgtggt aattctagag ctaatacatg caatcaagcc
+      181 ccgacttctg ggaggggtgt atttattaga taaaaaacca acgcggctcg ccgctcgttt
+      241 ggtgattcat aataacttct cgaatcgcat ggccttgtgc cggcgatgct tcattcaaat
+      301 atctgcccta tcaactttcg atggtaggat agaggcctac catggtttca acgggtaacg
+      361 gggaataagg gttcgattcc ggagagggag cctgagaaac ggctaccaca tccaaggaag
+      421 gcagcaggcg cgcaaattac ccaatcccga cacggggagg tagtgacaat aaataacaat
+      481 acagggctct tttgggtcct gtaattggaa tgagtacaat ttaaatccca taacgaggaa
+      541 caattggagg gcaagtctgg tgccagcagc cgcggtaatt ccagctccaa tagcgtatat
+      601 taaagttgtt gcagttaaaa agctcgtagt tgaacttcag gcctggacgg gcggtccgcc
+      661 taacggtgtg tactgtctgg ctgggtctta cctcttggtg aaccggcatg cccttcactg
+      721 ggtgtgttgg ggaaccagga cctttacctt gagaaaatta gagtgttcaa agcaggccta
+      781 tgcctgaata cattagcatg gaataataga ataggacgcg cggtcctatt ttgttggttt
+      841 ctaggatcgc cgtaatgatc aatagggaca gttgggggca ttcgtattgc gtcgctagag
+      901 gtgaaattct tggattgacg caagacgaac tactgcgaaa gcatttgcca aggatgtttt
+      961 cattaatcaa gaacgaaggt taggggatcg aaaacgatca gataccgttg tagtcttaac
+     1021 agtaaactat gccgactggg gatcggacga cctcgaattt atgtgtcgtt cggcacccta
+     1081 cgagaaatca aagtctttgg gttctggggg gagtatggtc gcaaggctga aacttaaagg
+     1141 aattgacgga agggcaccac caggagtgga gcctgcggct taatttgact caacacgggg
+     1201 aaactcacca ggtccagaca taactaggat tgacagattg atagctcttt cttgatttta
+     1261 tgggtggtgg tgcatggccg ttcttagttg gtggagtgat ttgtctggtt aattccgata
+     1321 acgaacgaga ccttaacctg ctaaatagcc cgactggctt ttgctggttg ttggcttctt
+     1381 agagggactg tcggcgtcta gccgacggaa gtttgaggca ataacaggtc tgtgatgccc
+     1441 ttagatgttc tgggccgcac gcgcgctaca ctgatggagc cagcgagttt tttttccttg
+     1501 gccggaaggt ctgggtaatc ttgtgaaact ccatcgtgct ggggatagag cattgcaatt
+     1561 attgctcttc aacgaggaat tcctagtaag cgtgagtcat cagctcgcgt tgattacgtc
+     1621 cctgcccttt gtacacaccg cccgtcgcta ctaccgattg aatggcttag tgagacctcc
+     1681 ggattggctt cggggagccg gcaacggcac cctgtcgttg agaagctggt caaacttggt
+     1741 catttagagg aagtaaaagt cgtaacaagg tttccgtagg tgaacctgcg ga
+//
+
+LOCUS       AF506461                1245 bp    DNA     linear   PLN 10-NOV-2004
+DEFINITION  Lachnocladium sp. KHL10556 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AF506461
+VERSION     AF506461.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp. KHL10556
+  ORGANISM  Lachnocladium sp. KHL10556
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 1245)
+  AUTHORS   Larsson,E. and Larsson,K.H.
+  TITLE     Phylogenetic relationships of russuloid basidiomycetes with
+            emphasis on aphyllophoralean taxa
+  JOURNAL   Mycologia 95 (6), 1037-1065 (2003)
+   PUBMED   21149013
+REFERENCE   2  (bases 1 to 1245)
+  AUTHORS   Larsson,K.H., Larsson,E. and Koljalg,U.
+  TITLE     High phylogenetic diversity among corticioid homobasidiomycetes
+  JOURNAL   Mycol. Res. 108 (PT 9), 983-1002 (2004)
+   PUBMED   15506012
+REFERENCE   3  (bases 1 to 1245)
+  AUTHORS   Larsson,E. and Larsson,K.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2002) Systematic Botany, Botanical Institute, Box
+            461, Goteborg SE 405 30, Sweden
+FEATURES             Location/Qualifiers
+     source          1..1245
+                     /organism="Lachnocladium sp. KHL10556"
+                     /mol_type="genomic DNA"
+                     /strain="KHL10556"
+                     /db_xref="taxon:205775"
+     rRNA            <1..100
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        101..319
+                     /product="internal transcribed spacer 2"
+     rRNA            320..>1245
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 gataagtaat gtgaattgca gaattcagtg aatcatcgaa tctttgaacg caccttgcac
+       61 cccttggtat tccgaggggt acacctgttt gagtgtcgtg aattcctcca tcttcttaat
+      121 ttgttgttaa gaagctttgg gactttggga gtctttgcag gtttgaaaaa aatctgctct
+      181 ccttgaatgc attagcaaat aaaagcctct gttaaattaa atgtggccct ggcattgata
+      241 gatatctatg catcttggct tttagcagag ataagacttg cttcaaattg tctttttaga
+      301 caaagatacc attttgaact tgacctcaga tcaggtggga ttamccgctg aacytaagca
+      361 tatcaataag cggrggaaaa gaaattaaca aggattcccc tagtaactgc gagtgaagcg
+      421 ggaagagctc aaatttaaaa tctggcagct ttgctgtccg agttgtaatt tagagaagca
+      481 ttttccgcgt cggaccgtgt acaagtctcc tggaacggag cgtcatagag ggtgagaatc
+      541 ccgtctttga cacggactac cggggctctg tgatatgctc tcaaagagtc gagttgtttg
+      601 ggaatgcagc tcaaaatggg tggtgaactc catctaaagc taaatattgg cgagagaccg
+      661 atagcgaaca agtaccgtga gggaaagatg aaacgcactt tggaaagaga gtgaaacagt
+      721 acgtgaaatt gctgaaaggg aaacgcttga agtcagtcgc atctgccaga actcagccct
+      781 ctgtggtgta ctttctggtg gatgggccag catcactttt ggtcattgga aaagggcagg
+      841 ggaaagtggc accttcgggt gtgttatagt cccttgtcgt atacagtggc tgggagtgag
+      901 gaatgccttt ttgcaggatg ctggcgtaat ggctttaaac gacccgtctt gaaacacgga
+      961 ccaaggagtc taacatgccc gcgagtgttc gggtggaaaa cccgtgcgcg taatgaaagt
+     1021 gaaagttggg aaggctgtca tggcctgcac cgacgcccgg acctgagatt tatcgacggt
+     1081 tctgcggtag agcgtgtatg ttgggacccg aaagatggtg aactatgcct gaatagggtg
+     1141 aagccagagg aaactctggt ggaggctcgt agcgattctg acgtgcaaat cgatcgtbaa
+     1201 atttgggtat aggggcgaaa gactaatcga accatctagt tgttg
+//
+

@@ -1,0 +1,48 @@
+LOCUS       DQ192176                 540 bp    DNA     linear   PLN 23-OCT-2007
+DEFINITION  Lachnocladium sp. BK171002-23 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA
+            gene, complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   DQ192176
+VERSION     DQ192176.1
+KEYWORDS    .
+SOURCE      Lachnocladium sp. BK171002-23
+  ORGANISM  Lachnocladium sp. BK171002-23
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Russulales; Lachnocladiaceae; Lachnocladium.
+REFERENCE   1  (bases 1 to 540)
+  AUTHORS   Matheny,P.B. and Hibbett,D.S.
+  TITLE     Assembling the Fungal Tree of Life
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 540)
+  AUTHORS   Curtis,J.M., Matheny,P.B., Kropp,B.R. and Hibbett,D.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-SEP-2005) Biology, Clark University, 950 Main St,
+            Worcester, MA 01610, USA
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Lachnocladium sp. BK171002-23"
+                     /mol_type="genomic DNA"
+                     /isolate="AFTOL-ID 1556"
+                     /specimen_voucher="BK171002-23 (UTC) Belize"
+                     /db_xref="AFTOL:1556"
+                     /db_xref="taxon:341460"
+     rRNA            <1..60
+                     /product="18S ribosomal RNA"
+     misc_RNA        61..322
+                     /product="internal transcribed spacer 1"
+     rRNA            323..480
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        481..>540
+                     /product="internal transcribed spacer 2"
+ORIGIN      
+        1 tttagaggaa gtaaaagtcg taacaaggtt tccgtaggtg aacctgcgga aggatcatta
+       61 atgaaagtct ataaagcgtt ttgtttttag aaaggttgtt gctggcaagt cttaattgta
+      121 tttgcatgtg cacacctttt ctttttttac attacgtctt tctttcttat ccaccccctt
+      181 tattgtgaat ctttgcggga gttagtaagg gtcttctttg attggccttg aaagctaacg
+      241 aactttttaa tcatatactc attttgtaaa gtctattatt gtatgttact atttattgcg
+      301 ttaattcgca ttaaaactat tacaactttc agcaacggat ctcttggctc tcgcatcgat
+      361 gaagaacgca gcgaaatgcg ataactaatg tgaattgcag aattcagtga atcatcgaat
+      421 ctttgaacgc accttgcacc ccttggtatt ccgaggggta cacctgtttg agtgtcgtga
+      481 attcctccaa cttctttaat ttttattaaa gaaagtttgg gactttggga gttttttttt
+//

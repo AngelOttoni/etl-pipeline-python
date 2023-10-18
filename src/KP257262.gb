@@ -1,0 +1,67 @@
+LOCUS       KP257262                 777 bp    DNA     linear   PLN 09-AUG-2023
+DEFINITION  Clavaria ypsilonidia voucher TFB791 (TENN042411) RNA polymerase II
+            second largest subunit gene, partial cds.
+ACCESSION   KP257262
+VERSION     KP257262.1
+KEYWORDS    .
+SOURCE      Clavaria ypsilonidia
+  ORGANISM  Clavaria ypsilonidia
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Agaricomycetidae; Agaricales; Clavariineae;
+            Clavariaceae; Clavaria.
+REFERENCE   1  (bases 1 to 777)
+  AUTHORS   Birkebak,J.M., Adamcik,S., Looney,B.P. and Matheny,P.B.
+  TITLE     Multilocus phylogenetic reconstruction of the Clavariaceae
+            (Agaricales) reveals polyphyly of agaricoid members
+  JOURNAL   Mycologia 108 (5), 860-868 (2016)
+   PUBMED   27549621
+REFERENCE   2  (bases 1 to 777)
+  AUTHORS   Birkebak,J., Adamcik,S. and Matheny,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2014) Ecology and Evolutionary Biology,
+            University of Tennessee, 332 Hesler Biology Building, Knoxville, TN
+            37996, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..777
+                     /organism="Clavaria ypsilonidia"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TFB791 (TENN042411)"
+                     /type_material="holotype of Clavaria ypsilonidia"
+                     /db_xref="taxon:1647958"
+                     /country="New Zealand: Northland, Kaitui Kaipara, Waipoua
+                     Reserve near forestry headquarters"
+                     /lat_lon="35.6514 S 173.5611 E"
+                     /collection_date="24-Jun-1981"
+                     /collected_by="RH Petersen"
+                     /identified_by="RH Petersen"
+                     /note="type: Holotype"
+     mRNA            join(<1..699,752..>777)
+                     /product="RNA polymerase II second largest subunit"
+     CDS             join(<1..699,752..>777)
+                     /codon_start=1
+                     /product="RNA polymerase II second largest subunit"
+                     /protein_id="AKL71590.1"
+                     /translation="CPAETPEGQACGLVKNLALMACISVGSYSAPVIEFLEEWGLESL
+                     EENAHSSTPCTKVFVNGVWMGVHRDAANLVKTIKKLRRKDDISPEVSVVRDIREKELR
+                     LYTDAGRVCRPLFIVENQQLALQKKHIKWLNQGYNDDGDEFKWEQLIKGGIIELLDAE
+                     EEETVMISMTPDDLENSRLQASGVDPHANDGEFDPAARLKAGINSHTWTHCEIHPSMI
+                     LGICASIIPFPDHNQSPRNTYQSA"
+ORIGIN      
+        1 tgtcccgcag aaactccaga aggacaggca tgcgggcttg tcaagaactt ggcattgatg
+       61 gcgtgtattt ctgtcggatc atattctgcg ccagttattg agttcctgga ggagtggggc
+      121 ctggaatcgc tggaagaaaa tgcrcactct tcaacgcctt gtacaaaagt cttcgtcaat
+      181 ggtgtgtgga tgggtgttca tcgcgatgct gcgaacctgg tcaagacgat caagaagcta
+      241 cggcggaaag acgacattag tccggaagta tcggttgtgc gagacatccg agaaaaggaa
+      301 ctgcgtctgt ataccgatgc tggacgagta tgtcggccgc tcttcatcgt ggagaaccag
+      361 cagcttgcgt tgcagaagaa gcatatcaag tggctgaacc aaggatacaa cgatgacggt
+      421 gatgaattta aatgggaaca attgatcaag ggaggcatca tcgagctctt ggatgctgaa
+      481 gaagaggaga cagtcatgat atcaatgacc ccagacgatt tagaaaactc gaggttgcag
+      541 gcgagcgggg tcgatccgca tgcgaatgat ggagagttcg atcctgccgc caggctgaaa
+      601 gcagggataa actcgcacac ttggactcat tgtgagatcc accccagcat gatcttgggg
+      661 atttgcgcca gcataatacc tttccctgac cacaaccagg tttgtgtttt gtctgctact
+      721 attctactcg cacactaatt cctatctcta gtcgccccgt aatacctatc aatctgc
+//
+
