@@ -67,17 +67,17 @@
 1. Clone this repository to your local machine.
 2. Install the required Python packages by running: 
 
-        ```bash
-        python pip install -r requirements.txt
-        ```
+        
+        pip install -r requirements.txt
+        
 
 ## Usage
 
 - To use the GenBank Data Extractor, you need to run the Python script with your GenBank file as input. Here's how you can do it:
 
-        ```bash
-        python genbank_data_extractor.py input_genbank_file.gb output_csv_file.csv
-        ```
+        
+        python3 genbank_data_extractor.py
+        
 
 - `input_genbank_file.gb` should be replaced with the path to your GenBank file.
 - `output_csv_file.csv` should be replaced with the desired name for the output CSV file.
