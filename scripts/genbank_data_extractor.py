@@ -84,6 +84,6 @@ def main(input_genbank_file, output_csv_file):
 
 
 if __name__ == "__main__":
-    input_genbank_file = "/home/angel-ottoni/Documents/etl-python/src/all-seqs-lachnocladium-jun-13-23.gb"
-    output_csv_file = "/home/angel-ottoni/Documents/etl-python/data/output_info1.csv"
+    input_genbank_file = "src/all-seqs-lachnocladium-jun-13-23.gb"
+    output_csv_file = "data/output_lachn2.csv"
     main(input_genbank_file, output_csv_file)
